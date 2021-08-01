@@ -1,0 +1,19 @@
+
+body{
+    background: rgb(108, 155, 32);
+}
+#brand{
+    background-color: chartreuse;
+}
+.sourav{
+    background-color: rgb(235, 195, 35);
+}
+header{
+    color: yellowgreen;
+}
+h1{
+    color: tomato;
+}
+image{
+    border:firebrick;
+}

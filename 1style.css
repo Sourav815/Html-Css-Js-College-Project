@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    background-color: black;
+    color: white;
+    height: 70%;
+    width: 19%;
+}
+.main{
+    background-color: green;
+    color: white;
+}
+.image{
+    background-image: url(sourav.jpeg);
+    width: 544px;
+    height: 1044px;
+    background-color: aqua;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 300px 300px;
+} 
